@@ -1,0 +1,10 @@
+{
+  "name": "react-query",
+  "packageManager": "yarn@3.2.2",
+  "scripts": {
+    "app": "yarn workspace app"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
